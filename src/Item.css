@@ -1,0 +1,10 @@
+.list-item {
+    color: darkblue;
+    font-size: 16px;
+    font-family: "Tempus Sans ITC" , sans-serif;
+}
+
+.list-item button {
+    background-color: black;
+    color: red;
+}
